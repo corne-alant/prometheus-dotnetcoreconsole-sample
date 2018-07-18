@@ -10,7 +10,7 @@ namespace prometheus_demo
         {
             Console.WriteLine("Starting");
 
-            //start prom server
+            //start metric server exposed on http://localhost:1234/metrics
             var metricServer = new KestrelMetricServer(port: 1234);
             metricServer.Start();
 
