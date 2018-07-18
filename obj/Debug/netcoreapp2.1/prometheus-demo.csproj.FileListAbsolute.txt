@@ -1,0 +1,11 @@
+c:\dev\prometheus-demo\bin\Debug\netcoreapp2.1\prometheus-demo.deps.json
+c:\dev\prometheus-demo\bin\Debug\netcoreapp2.1\prometheus-demo.runtimeconfig.json
+c:\dev\prometheus-demo\bin\Debug\netcoreapp2.1\prometheus-demo.runtimeconfig.dev.json
+c:\dev\prometheus-demo\bin\Debug\netcoreapp2.1\prometheus-demo.dll
+c:\dev\prometheus-demo\bin\Debug\netcoreapp2.1\prometheus-demo.pdb
+c:\dev\prometheus-demo\obj\Debug\netcoreapp2.1\prometheus-demo.csprojAssemblyReference.cache
+c:\dev\prometheus-demo\obj\Debug\netcoreapp2.1\prometheus-demo.csproj.CoreCompileInputs.cache
+c:\dev\prometheus-demo\obj\Debug\netcoreapp2.1\prometheus-demo.AssemblyInfoInputs.cache
+c:\dev\prometheus-demo\obj\Debug\netcoreapp2.1\prometheus-demo.AssemblyInfo.cs
+c:\dev\prometheus-demo\obj\Debug\netcoreapp2.1\prometheus-demo.dll
+c:\dev\prometheus-demo\obj\Debug\netcoreapp2.1\prometheus-demo.pdb
