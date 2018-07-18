@@ -3,4 +3,4 @@ Sample code starting a Prometheus metric server at startup of a .NET Core consol
 Using the following packages:
 
 [prometheus-net](https://github.com/prometheus-net/prometheus-net)
-prometheus-net.AspNetCore
+[prometheus-net.AspNetCore](https://github.com/prometheus-net/prometheus-net)
