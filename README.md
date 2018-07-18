@@ -1,3 +1,1 @@
-"# prometheus-dotnetcoreconsole-sample"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/corne-alant/prometheus-dotnetcoreconsole-sample.git git push -u origin master
-"# prometheus-dotnetcoreconsole-sample"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/corne-alant/prometheus-dotnetcoreconsole-sample.git git push -u origin master
-"# prometheus-dotnetcoreconsole-sample" 
+Sample code starting a Prometheus metric server at startup of a .NET Core console app.
